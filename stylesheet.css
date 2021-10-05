@@ -1,0 +1,36 @@
+p {
+  text-align: center;
+  color: white;
+}
+
+#grey-box {
+  background-color: rgb(216, 205, 205);
+  padding: 5px 3px;
+  width: 250px;
+}
+
+.tag {
+  background-color: red;
+  width: 250px;
+  border-radius: 10px;
+  padding-bottom: 20px;
+  color: white;
+  font-family: sans-serif;
+}
+
+.hello {
+  font-size: 30px;
+  margin-bottom: 0%;
+  margin-top: 0;
+  font-weight:bolder
+}
+
+.name {
+  background:white;
+  color: black;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: Ephesis;
+}
+
+
