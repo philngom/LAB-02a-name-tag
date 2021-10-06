@@ -1,3 +1,14 @@
+#bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-bottom: 5px;
+}
+
+#name-input {
+  margin-right: 5px;;
+}
+
 p {
   text-align: center;
   color: white;
@@ -5,22 +16,15 @@ p {
   margin-top: 0;
 }
 
-#update-button {
-  margin: 0 auto;
-}
-
-#name-input {
-  margin: 0 auto;
-}
-
 #grey-box {
   background-color: rgb(216, 205, 205);
   padding: 5px 3px;
   width: 250px;
   margin: 0 auto;
+  margin-bottom: 5px;
 }
 
-.tag {
+#tag {
   background-color: red;
   width: 250px;
   border-radius: 10px;
@@ -36,11 +40,6 @@ p {
   font-weight:bolder
 }
 
-/* .my-name-is {
-  margin-top: 0;
-  margin-bottom: 0;
-} */
-
 #name-display {
   background:white;
   color: black;
@@ -52,6 +51,18 @@ p {
 .faded {
   opacity: 0.5;
 }
+
+#color-buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+#green-button {
+  margin
+}
+
+
 
 
 
